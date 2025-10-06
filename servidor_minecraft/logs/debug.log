@@ -622,3 +622,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Oct2025 17:54:41.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis joined the game
 [06Oct2025 17:57:22.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Oct2025 17:57:22.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 18:02:22.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 18:02:22.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 18:07:22.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 18:07:22.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 18:08:29.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis was shot by Skeleton
+[06Oct2025 18:09:02.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis was slain by Zombie

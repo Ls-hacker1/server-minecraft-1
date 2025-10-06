@@ -109,3 +109,5 @@
 [06Oct2025 17:54:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis left the game
 [06Oct2025 17:54:41.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luis[/127.191.64.79:54263] logged in with entity id 481 at (239.5, 72.0, -195.5)
 [06Oct2025 17:54:41.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis joined the game
+[06Oct2025 18:08:29.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis was shot by Skeleton
+[06Oct2025 18:09:02.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luis was slain by Zombie
